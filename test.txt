@@ -1,8 +1,5 @@
-hello world
-<<<<<<< Updated upstream
-sb lisheng...
-=======
+hello worldasdfadf
+asdfadf
 asdfasdfasdf
 asdfasdfasdf
 asdfasdf
->>>>>>> Stashed changes
